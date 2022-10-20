@@ -1,0 +1,3 @@
+This is a git repo
+Today is thursday
+UW football game on saturday
